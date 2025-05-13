@@ -2,7 +2,7 @@
 
     [1] W. Diepeveen, J. Schwenk, A. Bertozzi.  
     Latent diffeomorphic dynamic mode decomposition
-    arXiv preprint arXiv:xxxx.xxxx. 2025 MMM DD.
+    arXiv preprint arXiv:2505.06351. 2025 May 9.
 
 Setup
 -----
